@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgoritmPraktika2", "AlgoritmPraktika2\AlgoritmPraktika2.vcxproj", "{20177081-2783-47F0-9C55-1458EC3AF1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Debug|x64.ActiveCfg = Debug|x64
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Debug|x64.Build.0 = Debug|x64
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Debug|x86.Build.0 = Debug|Win32
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Release|x64.ActiveCfg = Release|x64
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Release|x64.Build.0 = Release|x64
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Release|x86.ActiveCfg = Release|Win32
+		{20177081-2783-47F0-9C55-1458EC3AF1A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E594D80-4BE1-4F1A-AB70-1D30A7DA3BF3}
+	EndGlobalSection
+EndGlobal
